@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.8/The-Overlay-Setup-0.1.8.exe"><b>Download voor Windows</b></a> (versie 0.1.8) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
+  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.9/The-Overlay-Setup-0.1.9.exe"><b>Download voor Windows</b></a> (versie 0.1.9) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
 </p>
 
 ## In cijfers
@@ -33,6 +33,9 @@
   <img alt="Functies sinds 0.1.0, per versie" src="readme/growth-light.svg">
 </picture>
 
+**0.1.9** · 13 november 2026
+- Claude-paneel: de sessiebalk van een gesprek staat vast onder de titel, zonder donkere band over de tekst
+
 **0.1.8** · 13 november 2026
 - Claude-paneel: na klaar een vervolg sturen vanuit het paneel (app, VS Code en terminal)
 - Claude-paneel: het gesprek van een sessie lezen als chat
@@ -41,11 +44,11 @@
 **0.1.7** · 13 november 2026
 - Jev Screenshot: typ waarvan je een screenshot wilt, Jev zoekt de pagina en zet het stuk in beeld
 
-**0.1.6** · 12 november 2026
-- Jev Sorteren: Gmail, lijsten en afbeeldingen
-
 <details>
 <summary>Eerdere versies</summary>
+
+**0.1.6** · 12 november 2026
+- Jev Sorteren: Gmail, lijsten en afbeeldingen
 
 **0.1.5** · 12 november 2026
 - Een melding vóór elke afspraak, met de minuten zelf in te stellen
@@ -107,4 +110,4 @@
 
 ---
 
-<sub>Versie 0.1.8 · 13 november 2026</sub>
+<sub>Versie 0.1.9 · 13 november 2026</sub>
