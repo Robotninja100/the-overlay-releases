@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.6/The-Overlay-Setup-0.1.6.exe"><b>Download voor Windows</b></a> (versie 0.1.6) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
+  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.7/The-Overlay-Setup-0.1.7.exe"><b>Download voor Windows</b></a> (versie 0.1.7) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
 </p>
 
 ## In cijfers
@@ -33,6 +33,9 @@
   <img alt="Functies sinds 0.1.0, per versie" src="readme/growth-light.svg">
 </picture>
 
+**0.1.7** · 13 november 2026
+- Jev Screenshot: typ waarvan je een screenshot wilt, Jev zoekt de pagina en zet het stuk in beeld
+
 **0.1.6** · 12 november 2026
 - Jev Sorteren: Gmail, lijsten en afbeeldingen
 
@@ -40,11 +43,11 @@
 - Een melding vóór elke afspraak, met de minuten zelf in te stellen
 - Een nieuw app-icoon
 
-**0.1.4** · 12 november 2026
-- Jev Sorteren: mapjes en documenten, met terugdraaien
-
 <details>
 <summary>Eerdere versies</summary>
+
+**0.1.4** · 12 november 2026
+- Jev Sorteren: mapjes en documenten, met terugdraaien
 
 **0.1.2** · 12 november 2026
 - Jev leest pagina's tegelijk en verzamelt sneller
@@ -71,7 +74,7 @@
 - **Gmail**: je inbox in één blik: lezen en beantwoorden, en als je wilt schrijft Claude een concept.
 - **Claude Code**: je Claude Code- en Codex-sessies op een rij. Je ziet wanneer er een klaar is of iets vraagt, en antwoordt meteen.
 - **Agenda**: je volgende afspraak met aftelling, de rest van vandaag en morgen, en een melding vooraf.
-- **Jev**: zoekt op het web, verzamelt lijsten als tabel en sorteert je mapjes, mail, afbeeldingen en lijsten. Niets wordt verwijderd en terugdraaien kan.
+- **Jev**: zoekt op het web, verzamelt lijsten als tabel, maakt een screenshot van precies het stuk dat je vraagt en sorteert je mapjes, mail, afbeeldingen en lijsten. Niets wordt verwijderd en terugdraaien kan.
 - **Invulhulp**: vult formulieren in je browser in met de gegevens uit je eigen documenten.
 - **Klembord**: alles wat je kopieerde, doorzoekbaar en vast te zetten.
 - **Dashboard**: zet panelen aan en uit, laat je gebruik zien in grafieken en houdt de app bij.
@@ -99,4 +102,4 @@
 
 ---
 
-<sub>Versie 0.1.6 · 12 november 2026</sub>
+<sub>Versie 0.1.7 · 13 november 2026</sub>
