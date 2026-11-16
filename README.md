@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.9/The-Overlay-Setup-0.1.9.exe"><b>Download voor Windows</b></a> (versie 0.1.9) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
+  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.10/The-Overlay-Setup-0.1.10.exe"><b>Download voor Windows</b></a> (versie 0.1.10) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
 </p>
 
 ## In cijfers
@@ -33,6 +33,15 @@
   <img alt="Functies sinds 0.1.0, per versie" src="readme/growth-light.svg">
 </picture>
 
+**0.1.10** · 16 november 2026
+- Prijswacht: een nieuw paneel dat elke dag kijkt of iets echt goedkoop is (je eigen grens, of de laagste prijs van 3 maanden en duidelijk onder normaal), met een melding en een badge
+- Prijswacht: producten via Tweakers, bol, Coolblue en andere vertrouwde winkels; je typt een beschrijving en vinkt de voorgestelde modellen aan, of je plakt een link
+- Prijswacht: vluchten in een periode met speling via Firecrawl, met een teller voor de credits
+- Prijswacht: Jev zoekt stil mee naar andere winkels; alleen vertrouwde winkels tellen, de rest staat onder "Jev vond"
+- Instellingen: kies op welk scherm de strook staat (of op alle schermen: de strook volgt je muis) en aan welke kant: links, rechts of boven
+- Claude-paneel: een vervolg sturen kan nu altijd; na 2 minuten wekt het paneel Claude zelf (een 'ja' op een vraag bevestig je in de sessie)
+- Claude-paneel: agents tonen hun echte naam, en alle agents staan erbij (niet meer hoogstens 6)
+
 **0.1.9** · 13 november 2026
 - Claude-paneel: de sessiebalk van een gesprek staat vast onder de titel, zonder donkere band over de tekst
 
@@ -41,11 +50,11 @@
 - Claude-paneel: het gesprek van een sessie lezen als chat
 - Claude-paneel: de agents van een sessie als kaarten naast het paneel
 
-**0.1.7** · 13 november 2026
-- Jev Screenshot: typ waarvan je een screenshot wilt, Jev zoekt de pagina en zet het stuk in beeld
-
 <details>
 <summary>Eerdere versies</summary>
+
+**0.1.7** · 13 november 2026
+- Jev Screenshot: typ waarvan je een screenshot wilt, Jev zoekt de pagina en zet het stuk in beeld
 
 **0.1.6** · 12 november 2026
 - Jev Sorteren: Gmail, lijsten en afbeeldingen
@@ -110,4 +119,4 @@
 
 ---
 
-<sub>Versie 0.1.9 · 13 november 2026</sub>
+<sub>Versie 0.1.10 · 16 november 2026</sub>
