@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.10/The-Overlay-Setup-0.1.10.exe"><b>Download voor Windows</b></a> (versie 0.1.10) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
+  <a href="https://github.com/Robotninja100/the-overlay-releases/releases/download/v0.1.11/The-Overlay-Setup-0.1.11.exe"><b>Download voor Windows</b></a> (versie 0.1.11) · <a href="https://github.com/Robotninja100/the-overlay-releases/releases/latest">Alle versies</a>
 </p>
 
 ## In cijfers
@@ -33,6 +33,9 @@
   <img alt="Functies sinds 0.1.0, per versie" src="readme/growth-light.svg">
 </picture>
 
+**0.1.11** · 24 november 2026
+- De strook gebruikt in rust geen processor meer: het groene bolletje ademt drie keer en ligt dan stil, en een dicht paneel tekent niets meer door
+
 **0.1.10** · 16 november 2026
 - Prijswacht: een nieuw paneel dat elke dag kijkt of iets echt goedkoop is (je eigen grens, of de laagste prijs van 3 maanden en duidelijk onder normaal), met een melding en een badge
 - Prijswacht: producten via Tweakers, bol, Coolblue en andere vertrouwde winkels; je typt een beschrijving en vinkt de voorgestelde modellen aan, of je plakt een link
@@ -45,13 +48,13 @@
 **0.1.9** · 13 november 2026
 - Claude-paneel: de sessiebalk van een gesprek staat vast onder de titel, zonder donkere band over de tekst
 
+<details>
+<summary>Eerdere versies</summary>
+
 **0.1.8** · 13 november 2026
 - Claude-paneel: na klaar een vervolg sturen vanuit het paneel (app, VS Code en terminal)
 - Claude-paneel: het gesprek van een sessie lezen als chat
 - Claude-paneel: de agents van een sessie als kaarten naast het paneel
-
-<details>
-<summary>Eerdere versies</summary>
 
 **0.1.7** · 13 november 2026
 - Jev Screenshot: typ waarvan je een screenshot wilt, Jev zoekt de pagina en zet het stuk in beeld
@@ -119,4 +122,4 @@
 
 ---
 
-<sub>Versie 0.1.10 · 16 november 2026</sub>
+<sub>Versie 0.1.11 · 24 november 2026</sub>
